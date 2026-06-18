@@ -1,5 +1,5 @@
 context:
-  version: 0.4.0
+  version: "0.5.0"
   python_min: "3.12"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/d/depgather/depgather-${{ version }}.tar.gz
-    sha256: 661facd6fffd709ef57086461fcc749cbfcb073eac1518db7db2cd02f60c3bd5
+    sha256: 0a9dd0980c9c8ae01c5acfbe76c97d2b5209a299defa520331a61a0846816f65
 
 build:
   number: 0
