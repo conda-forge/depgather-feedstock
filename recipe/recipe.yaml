@@ -23,6 +23,7 @@ requirements:
   run:
     - python >=${{ python_min }}
     - loguru >=0.7.3
+    - pydantic >=2.13.4
     - requirements-parser >=0.13.0
     - tomli >=2.2.1
 
